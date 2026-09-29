@@ -1,0 +1,229 @@
+{
+  "keyword": "best ai canvas tools for ecommerce product content",
+  "title": "AI canvas and product-image tools for ecommerce content",
+  "lastChecked": "2026-09-29",
+  "capabilityChecks": [
+    {
+      "key": "imageTools",
+      "label": "Image tools"
+    },
+    {
+      "key": "visualGraph",
+      "label": "Visual graph"
+    },
+    {
+      "key": "restApi",
+      "label": "REST API"
+    },
+    {
+      "key": "selfHostedRuntime",
+      "label": "Self-hosted runtime"
+    }
+  ],
+  "tools": [
+    {
+      "n": 1,
+      "name": "Wireflow",
+      "tagline": null,
+      "homepage": "https://www.wireflow.ai/node-based-image-generation",
+      "docs": "https://www.wireflow.ai/docs",
+      "pricing": "https://www.wireflow.ai/pricing",
+      "claudeConnection": "Hosted MCP; see official connector setup",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.wireflow.ai/docs"
+        }
+      ],
+      "capabilities": {
+        "imageTools": true,
+        "visualGraph": true,
+        "restApi": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 2,
+      "name": "Flora AI",
+      "tagline": null,
+      "homepage": "https://flora.ai",
+      "docs": "https://developer.flora.ai/api/",
+      "pricing": null,
+      "claudeConnection": "Hosted MCP with OAuth",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Official CLI installation; this installs software but submits no generation:",
+          "lang": "bash",
+          "code": "go install github.com/florafauna-ai/flora-cli/cmd/flora@latest"
+        }
+      ],
+      "capabilities": {
+        "imageTools": true,
+        "visualGraph": true,
+        "restApi": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 3,
+      "name": "Krea AI",
+      "tagline": null,
+      "homepage": "https://www.krea.ai",
+      "docs": "https://www.krea.ai/docs/developers/introduction",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.krea.ai/docs/developers/introduction"
+        }
+      ],
+      "capabilities": {
+        "imageTools": true,
+        "visualGraph": true,
+        "restApi": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 4,
+      "name": "Flair.ai",
+      "tagline": null,
+      "homepage": "https://flair.ai",
+      "docs": "https://flair.ai/key-features/flair-api",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": null,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. API access is advertised, but a complete public REST schema was not verified for this comparison.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://flair.ai/key-features/flair-api"
+        }
+      ],
+      "capabilities": {
+        "imageTools": true,
+        "visualGraph": null,
+        "restApi": null,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 5,
+      "name": "Photoroom",
+      "tagline": null,
+      "homepage": "https://www.photoroom.com",
+      "docs": "https://docs.photoroom.com/getting-started/introduction",
+      "pricing": "https://www.photoroom.com/api/pricing",
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image operations; see documented model and format support",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.photoroom.com/getting-started/introduction"
+        }
+      ],
+      "capabilities": {
+        "imageTools": true,
+        "visualGraph": null,
+        "restApi": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 6,
+      "name": "ComfyUI",
+      "tagline": null,
+      "homepage": "https://www.comfy.org",
+      "docs": "https://docs.comfy.org",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": "Comfy-Org/ComfyUI",
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. ComfyUI has both local and hosted routes. Downloadable software does not make GPU use, hosted services or every model licence free.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.comfy.org"
+        }
+      ],
+      "capabilities": {
+        "imageTools": true,
+        "visualGraph": true,
+        "restApi": true,
+        "selfHostedRuntime": true
+      },
+      "live": {
+        "stars": 135390,
+        "lastPush": "2026-09-29T03:04:41Z",
+        "latestRelease": "v0.37.0",
+        "latestReleaseDate": "2026-09-21",
+        "checkedAt": "2026-09-29"
+      }
+    }
+  ]
+}
