@@ -1,7 +1,7 @@
 {
   "keyword": "best ai canvas tools for ecommerce product content",
   "title": "AI canvas and product-image tools for ecommerce content",
-  "lastChecked": "2026-10-11",
+  "lastChecked": "2026-10-12",
   "capabilityChecks": [
     {
       "key": "imageTools",
@@ -220,11 +220,11 @@
         "selfHostedRuntime": true
       },
       "live": {
-        "stars": 136819,
-        "lastPush": "2026-10-11T02:28:40Z",
+        "stars": 137103,
+        "lastPush": "2026-10-12T15:22:14Z",
         "latestRelease": "v0.39.0",
         "latestReleaseDate": "2026-10-05",
-        "checkedAt": "2026-10-11"
+        "checkedAt": "2026-10-12"
       }
     }
   ]
