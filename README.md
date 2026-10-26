@@ -12,7 +12,7 @@ A maintained dataset of **best ai canvas tools for ecommerce product content** o
 The tables below are generated from [`data/tools.json`](data/tools.json). Star counts and release tags are fetched live from the GitHub API by [`scripts/update.js`](scripts/update.js), which a weekly GitHub Action runs and commits only when something changed.
 
 <!-- LAST-CHECKED:START -->
-Live repository data last checked **2026-10-19** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
+Live repository data last checked **2026-10-26** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
 <!-- LAST-CHECKED:END -->
 
 Maintained by [a1adams](https://github.com/a1adams). Corrections are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -49,7 +49,7 @@ One row per tool, one column per thing people actually check before committing. 
 | **[Krea AI](#3-krea-ai)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | n/a |
 | **[Flair.ai](#4-flairai)** | n/a | n/a | n/a | Image and video operations; model coverage varies | n/a | n/a |
 | **[Photoroom](#5-photoroom)** | n/a | Yes | [check](https://www.photoroom.com/api/pricing) | Image operations; see documented model and format support | [pricing](https://www.photoroom.com/api/pricing) | n/a |
-| **[ComfyUI](#6-comfyui)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), 139,239 ★, v0.42.1 |
+| **[ComfyUI](#6-comfyui)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), 143,135 ★, v0.42.1 |
 <!-- DATA-TABLE:END -->
 
 ## Capability scores
